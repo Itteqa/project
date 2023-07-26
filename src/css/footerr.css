@@ -1,0 +1,24 @@
+
+.FooterContainer {
+    background-color: var(--primary);
+	padding: 2rem 0 2rem 0;
+}
+.FooterWrapper {
+    max-width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.FooterRights {
+    color: #fff;
+	margin-bottom: 16px;
+	width: 100%;
+	font-size: 0.8rem;
+	text-align: center;
+	border-top: 1px solid white;
+	padding: 1rem 0;
+	margin: 1rem 0 0;
+}
+.FooterRights p {
+    font-size: 1rem;
+    font-weight: bold;
+}
